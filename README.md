@@ -19,19 +19,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 📫 You can reach me at **quangle@umich.edu**
-
-- 🤔 &nbsp; Optimal Control theory, Embedded systems, and Deep learning.
-- 🎓 &nbsp; Studying Mechanical Engineering at the University of Michigan, with focus on Control and Robotics.
+- 🎓 &nbsp; Studying Mechanical Engineering at the University of Michigan, with a focus on Control and Robotics.
 - 💼 &nbsp; Working as Embedded Control Engineer at Viettel High Tech.
-- 🌱 &nbsp; Learning about Robotics and Microcontrollers.
+- 🌱 &nbsp; Optimal Control theory, Embedded systems, and Deep learning.
 - ✍️ &nbsp; Pursuing card technician/ card magician as hobbies.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/quang-le-585b591ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quang-le-585b591ab" height="30" width="40" /></a>
-<a href="https://www.instagram.com/quang.nhat.le/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quang.nhat.le" height="30" width="40" /></a>
-</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -53,7 +44,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenhatquang2512&layout=compact" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenhatquang2512&show_icons=true&locale=en&layout=compact" alt="lenhatquang2512" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenhatquang2512&show_icons=true&locale=en" alt="lenhatquang2512" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/quang-le-585b591ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quang-le-585b591ab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/quang.nhat.le/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quang.nhat.le" height="30" width="40" /></a>
+</p>
 
