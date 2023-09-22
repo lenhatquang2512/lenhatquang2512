@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 🌱 I’m currently learning at the **University of Michigan** about **Control and Robotics**
-
 - 📫 You can reach me at **quangle@umich.edu**
+
+- 🤔 &nbsp; Optimal Control theory, Embedded systems, and Deep learning.
+- 🎓 &nbsp; Studying Mechanical Engineering at the University of Michigan, with focus on Control and Robotics.
+- 💼 &nbsp; Working as Embedded Control Engineer at Viettel High Tech.
+- 🌱 &nbsp; Learning about Robotics and Microcontrollers.
+- ✍️ &nbsp; Pursuing card technician/ card magician as hobbies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
