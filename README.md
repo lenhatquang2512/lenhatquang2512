@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 🎓 &nbsp; Studying Mechanical Engineering at the University of Michigan, with a focus on Control and Robotics.
+- 🎓 &nbsp; Studying Mechanical Engineering at the **University of Michigan**, with a focus on **Control and Robotics**.
 - 💼 &nbsp; Working as Embedded Control Engineer at Viettel High Tech.
 - 🌱 &nbsp; Optimal Control theory, Embedded systems, and Deep learning.
 - ✍️ &nbsp; Pursuing card technician/ card magician as hobbies.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/lenhatquang2512">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenhatquang2512&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenhatquang2512&layout=compact" />
 </a>
