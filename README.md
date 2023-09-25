@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2> Hi 👋! I'm Quang.</h2>
 <!--<h3 align="center">I'm a passionate Embedded Control Engineer from Vietnam.</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenhatquang2512&label=Profile%20views&color=0e75b6&style=flat" alt="lenhatquang2512" /> </p>-->
 
 - 🎓 &nbsp; Studying Mechanical Engineering at the **University of Michigan**, with a focus on **Control and Robotics**.
 - 💼 &nbsp; Working as Embedded Control Engineer at Viettel High Tech.
