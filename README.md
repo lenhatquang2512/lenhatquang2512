@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Studying Mechanical Engineering at the **University of Michigan**, with a focus on **Control, Robotics and Automotive**.
 - 💼 &nbsp; Former Embedded Control Engineer at Viettel High Tech.
 - 💼 &nbsp; I am an Application Software Engineer for Vinfast. 
-- 🌱 &nbsp; Control theory, Automotive, Robotics, and Embedded systems. I am learning AUTOSAR Model-based Design now.
+- 🌱 &nbsp; Control theory, Automotive, Robotics, and Embedded systems. I am now learning AUTOSAR Model-based Design (Embedded Code generation). Actually, it is fun!
 - ✍️ &nbsp; Pursuing card technician/ card magician as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
